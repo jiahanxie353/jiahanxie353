@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jiahanxie353
-- 👀 I’m interested in Reinforcement Learning and Deep Learning
-- 🧠 My research focus on Multi-Agent Reinforcement Learning
+- 👀 I’m interested in Compilers for Hardware Accelerators!
 - 🏫 I’m currently studying at Cornell University
-- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me jx353@cornell.edu
 
 <!---
