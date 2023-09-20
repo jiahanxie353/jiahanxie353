@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiahanxie353
+- 👋 Hi, I’m @jiahan
 - 👀 I’m interested in Compilers for Hardware Accelerators!
 - 🏫 I’m currently studying at Cornell University
 - 📫 How to reach me jx353@cornell.edu
